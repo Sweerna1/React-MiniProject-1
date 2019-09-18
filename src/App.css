@@ -1,3 +1,10 @@
+.background-img {
+  background-image: url("https://images4.alphacoders.com/556/556449.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  justify-content: center;
+}
 .App {
   text-align: center;
 }
